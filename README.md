@@ -1,4 +1,4 @@
-# An Analysis of Bikesharing
+# An Analysis of MechaCar
 
 ## Overview of Project
 The purpose of this analsysis was to create a business proposal to bring a bikesharing program to Des Moines. To create the data visulatizations and analysis for this proposal I utilized Tableau to make it look proffessional and easily understood. The main parts of the analysis were centered around analyzing the bike trips, who rents the bikes, and what time of week and day they rent those bikes. 
